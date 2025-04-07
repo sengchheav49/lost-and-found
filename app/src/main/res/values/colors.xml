@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_blue">#90CAF9</color>
+    
+    <!-- App Theme Colors -->
+    <color name="primary">#380386</color>
+    <color name="primary_dark">#2A0264</color>
+    <color name="primary_light">#6A35B8</color>
+    <color name="accent">#FF5722</color>
+    <color name="accent_light">#FFAB91</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#E0E0E0</color>
+    <color name="divider">#BDBDBD</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="error">#F44336</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#4A0F9E</color>
+    <color name="gradient_center">#5B16B9</color>
+    <color name="gradient_end">#380386</color>
+</resources>
