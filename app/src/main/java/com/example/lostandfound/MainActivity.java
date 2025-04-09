@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btnNext;
     private TextView tvPageInfo;
     private int currentPage = 1;
-    private static final int ITEMS_PER_PAGE = 4;
+    private static final int ITEMS_PER_PAGE = 6;
     private List<Item> allItems = new ArrayList<>();
 
     private FirebaseAuth.AuthStateListener authListener;
